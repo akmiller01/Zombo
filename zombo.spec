@@ -1,17 +1,10 @@
 # -*- mode: python -*-
-
-block_cipher = None
-
-
 a = Analysis(['zombo.py'],
-             pathex=['Z:\\home\\alex\\git\\zombo'],
+             pathex=['C:\\git\\Zombo'],
              hiddenimports=[],
              hookspath=None,
-             runtime_hooks=None,
-             excludes=None,
-             cipher=block_cipher)
-pyz = PYZ(a.pure,
-             cipher=block_cipher)
+             runtime_hooks=None)
+pyz = PYZ(a.pure)
 exe = EXE(pyz,
           a.scripts,
           a.binaries,

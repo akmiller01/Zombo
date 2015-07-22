@@ -1,11 +1,11 @@
-('Z:\\home\\alex\\git\\zombo\\build\\zombo\\out00-PKG.pkg',
+('C:\\git\\Zombo\\build\\zombo\\out00-PKG.pkg',
  {'BINARY': 1,
   'DATA': 1,
   'EXECUTABLE': 1,
   'EXTENSION': 1,
   'PYMODULE': 1,
   'PYSOURCE': 1},
- [('out00-PYZ.pyz', 'Z:\\home\\alex\\git\\zombo\\build\\zombo\\out00-PYZ.pyz', 'PYZ'), ('struct', 'C:\\Python27\\lib\\struct.pyc', 'PYMODULE'), ('pyi_os_path', 'C:\\pyinstaller\\PyInstaller\\loader\\pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', 'C:\\pyinstaller\\PyInstaller\\loader\\pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', 'C:\\pyinstaller\\PyInstaller\\loader\\pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', 'C:\\pyinstaller\\PyInstaller\\loader\\_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', 'C:\\pyinstaller\\PyInstaller\\loader\\pyi_carchive.py', 'PYSOURCE'), ('zombo', 'zombo.py', 'PYSOURCE'), ('python27.dll', 'C:\\windows\\system32\\python27.dll', 'BINARY'), ('select', 'C:\\Python27\\DLLs\\select.pyd', 'EXTENSION'), ('unicodedata', 'C:\\Python27\\DLLs\\unicodedata.pyd', 'EXTENSION'), ('_hashlib', 'C:\\Python27\\DLLs\\_hashlib.pyd', 'EXTENSION'), ('bz2', 'C:\\Python27\\DLLs\\bz2.pyd', 'EXTENSION'), ('_ssl', 'C:\\Python27\\DLLs\\_ssl.pyd', 'EXTENSION'), ('_socket', 'C:\\Python27\\DLLs\\_socket.pyd', 'EXTENSION'), ('zombo.exe.manifest', 'Z:\\home\\alex\\git\\zombo\\build\\zombo\\zombo.exe.manifest', 'BINARY')],
+ [('out00-PYZ.pyz', 'C:\\git\\Zombo\\build\\zombo\\out00-PYZ.pyz', 'PYZ'), ('struct', 'C:\\Anaconda\\Lib\\struct.pyc', 'PYMODULE'), ('pyi_os_path', 'C:\\.virtualenvs\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', 'C:\\.virtualenvs\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', 'C:\\.virtualenvs\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', 'C:\\.virtualenvs\\venv\\lib\\site-packages\\PyInstaller\\loader\\_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', 'C:\\.virtualenvs\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyi_carchive.py', 'PYSOURCE'), ('zombo', 'zombo.py', 'PYSOURCE'), ('python27.dll', 'C:\\.virtualenvs\\venv\\Scripts\\python27.dll', 'BINARY'), ('select', 'C:\\Anaconda\\DLLs\\select.pyd', 'EXTENSION'), ('unicodedata', 'C:\\Anaconda\\DLLs\\unicodedata.pyd', 'EXTENSION'), ('_hashlib', 'C:\\Anaconda\\DLLs\\_hashlib.pyd', 'EXTENSION'), ('bz2', 'C:\\Anaconda\\DLLs\\bz2.pyd', 'EXTENSION'), ('_ssl', 'C:\\Anaconda\\DLLs\\_ssl.pyd', 'EXTENSION'), ('_socket', 'C:\\Anaconda\\DLLs\\_socket.pyd', 'EXTENSION'), ('zombo.exe.manifest', 'C:\\git\\Zombo\\build\\zombo\\zombo.exe.manifest', 'BINARY')],
  False,
  None,
  False)
